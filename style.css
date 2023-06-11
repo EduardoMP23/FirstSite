@@ -1,0 +1,41 @@
+body{
+    background-color: bisque;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h1{
+    margin-top: 50px;
+}
+
+p{
+    font-size: 20px;
+    font-weight: bold;
+
+}
+
+img{
+    width: 100px;
+}
+
+hr{
+    height: 3px;
+    margin: 0 500px;
+    margin-top: 10px;
+    background-color: rgb(122, 74, 1);
+}
+
+ul{
+    margin:0 500px;
+    text-align: justify;
+
+}
+
+a{
+    color: rgb(136, 77, 4);
+}
+
+ol{
+    text-align: justify;
+    margin:0 500px;
+}
